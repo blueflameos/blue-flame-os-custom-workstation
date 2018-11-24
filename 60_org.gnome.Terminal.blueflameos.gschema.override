@@ -1,0 +1,10 @@
+[org.gnome.Terminal.Legacy.Settings]
+theme-variant='dark'
+default-show-menubar=false
+
+[org.gnome.Terminal.Legacy.Profile:/org/gnome/terminal/legacy/profiles:/:b1dcc9dd-5262-4d8d-a863-c897e6d979b9/]
+use-theme-colors=false
+background-color='#2D2C2C'
+foreground-color='#FFFFFF'
+background-transparency-percent=4
+use-transparent-background=true

@@ -1,0 +1,5 @@
+[org.gnome.desktop.interface]
+gtk-theme = "McOS-MJV-3.30"
+icon-theme = "la-capitaine-icon-theme"
+cursor-theme = "Breeze_Snow"
+clock-format='12h'

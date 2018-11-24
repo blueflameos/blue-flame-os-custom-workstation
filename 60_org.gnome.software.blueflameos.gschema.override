@@ -1,0 +1,3 @@
+[org.gnome.software]
+download-updates = false
+show-nonfree-ui = true

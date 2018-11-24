@@ -1,0 +1,2 @@
+[org.gnome.gedit.preferences]
+candidate-encodings = ['UTF-8', 'WINDOWS-1256', 'ISO-8859-15', 'UTF-16', 'WINDOWS-1250']

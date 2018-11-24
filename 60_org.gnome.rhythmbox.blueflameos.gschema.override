@@ -1,0 +1,2 @@
+[org.gnome.rhythmbox.plugins]
+active-plugins=['ipod', 'mtpdevice', 'notification', 'cd-recorder', 'audiocd', 'dbus-media-server', 'iradio', 'mpris', 'daap', 'power-manager', 'generic-player', 'audioscrobbler', 'mmkeys', 'rb', 'artsearch', 'android', 'soundcloud']
